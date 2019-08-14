@@ -2,7 +2,7 @@
 <config>
     <modules>
         <ConversionBug_Cookiebaseproduct>
-            <version>0.1.0</version>
+            <version>0.3.0</version>
         </ConversionBug_Cookiebaseproduct>
     </modules>
     <frontend>
