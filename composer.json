@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/CookiesBasedRecentlyViewedProducts",
+    "name": "OpenMageModuleFostering\/CookiesBasedRecentlyViewedProducts",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "This extension keeps track of the products viewed by the visitor on the website and shows them in a carousel",
     "authors": [
-    {
-        "name": "shivkumar singh",
-        "email": "shivam.kumar@conversionbug.com"
-    }
-],
+        {
+            "name": "shivkumar singh",
+            "email": "shivam.kumar@conversionbug.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
