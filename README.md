@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension keeps track of the products viewed by the visitor on the website and shows them in a carousel
